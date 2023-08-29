@@ -10,3 +10,8 @@ The purpose of this project is to code a small data exchange program using UNIX
 
 Don't print out the message character by charecter.
 
+## Usage
+1. Clone the repository.
+2. Run `make` to compile the source files.
+3. Run `./server` to start the server.
+3. Run `./client` `Server PID` `"text to be send"`.
